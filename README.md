@@ -4,6 +4,7 @@
   * [Demo](#demo)
   * [Overview](#overview)
   * [Deployement on Heroku](#deployement-on-heroku)
+  * [Dataset](#Dataset)
 
 
 
@@ -22,5 +23,12 @@ This is a Flask web app which predicts fare of Flight ticket.
 Login or signup in order to create virtual app. Connect your github profile to deploy this project.
 
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+
+
+## Dataset
+Using kaggle Dataset of  Flight Fare Prediction MH
+
+Link: [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/)
+
 
 
