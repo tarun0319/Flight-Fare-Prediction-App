@@ -11,7 +11,7 @@
 ## Demo
 Link: [https://flight-fare-prediction-tvarma.herokuapp.com/](https://flight-fare-prediction-tvarma.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-fare-prediction-tvarma.herokuapp.com/)
+[https://i.imgur.com/WcxYuWG.png)](https://flight-fare-prediction-tvarma.herokuapp.com/)
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://flight-fare-prediction-tvarma.herokuapp.com/)
 
