@@ -29,8 +29,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 │   ├── css	
 ├── template	
 │   ├── home.html	
-├── Procfile	
-├── README.md	
+├── Procfile		
 ├── app.py	
 ├── flight_price.ipynb	
 ├── flight_rf.pkl	
